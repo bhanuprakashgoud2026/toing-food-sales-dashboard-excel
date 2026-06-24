@@ -45,7 +45,7 @@ The dashboard provides insights into:
 - UPI
 ---
 ## Dashboard Preview
-(Images/dashboard-overview.png)
+![toying Dashboard](dashboard_preview.png)
 ---
 ## Business Questions Answered
 1. What is the total revenue generated?
